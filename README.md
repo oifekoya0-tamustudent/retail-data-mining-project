@@ -41,5 +41,5 @@ Subset of data used for computational efficiency.
 - Matplotlib
 
 ## Author
-[Hannah]
+Hannah Ifekoya
 Data Science Major
